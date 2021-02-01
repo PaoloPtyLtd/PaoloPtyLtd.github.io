@@ -1,4 +1,4 @@
-Title: It's a test!
+title: It's a test!
 --
 # Test page
 test
